@@ -3,3 +3,5 @@ Git is free software.
 
 date:3_7
 Creating a new branch is quick.
+
+Switched to a new branch 'dev'
